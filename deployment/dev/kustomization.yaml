@@ -8,4 +8,4 @@ resources:
 namespace: dev
 images:
 - name: cnych/gitops-webapp
-  newTag: 3f520d48
+  newTag: 07c4ede5
